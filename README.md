@@ -1,3 +1,3 @@
-git add README.md
-git commit -m "Added README file"
+git add screenshot.png
+git commit -m "Added portfolio screenshot"
 git push origin main
